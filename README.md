@@ -3,7 +3,7 @@
 A template used in my React Native / Expo projects
 
 ## Used in
-* [Standard Auto Sales](https://www.standardcarsales.com)
+* [Standard Auto Sales](https://github.com/jcancellier/standard-auto-sales-app)
 
 ## Built With
 
